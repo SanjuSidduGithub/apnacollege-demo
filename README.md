@@ -1,4 +1,4 @@
-# apnacollege-demo
+cd # apnacollege-demo
 demo repository
 <br>
-Author - Sanju C
+Author - Sanju (C)
